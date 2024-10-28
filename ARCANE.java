@@ -127,7 +127,7 @@ public class ARCANE {
             gbc.gridy++;
             JPanel keyPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
             keyPanel.setBackground(bgColor);
-            JLabel keyLabel = new JLabel("Cipher Key(For Rail fence key<=2) :");
+            JLabel keyLabel = new JLabel("Cipher Key:");
             keyLabel.setForeground(textColor);
             keyLabel.setFont(labelFont);
             keyPanel.add(keyLabel);
