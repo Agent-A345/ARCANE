@@ -50,5 +50,11 @@ ARCANE: A Java-based encryption and decryption system using rotor-based logic, i
 8. Enter rotor values and check the final decryption.
 9. Upon entering the correct rotor values, you get the original message.
 
+## Contributors
+1. Atharva Pagar(me)
+2. Tanmay Mewada
+3. Omkar Malasne
+4. Abhishek Kadam
+
 ## License
 This project is licensed under the Apache License 2.0.
