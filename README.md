@@ -28,9 +28,12 @@ ARCANE: A Java-based encryption and decryption system using rotor-based logic, i
 - **IDE**: IntelliJ, Eclipse, or any other Java IDE.
 
 ### Steps
-1. Clone the repository: `git clone https://github.com/Agent-A345/ARCANE.git`
-2. Open the project in your IDE.
-3. Build and run the project.
+1. Clone the repository:
+```
+git clone https://github.com/Agent-A345/ARCANE.git
+```
+3. Open the project in your IDE.
+4. Build and run the project.
 
 ## Types of Cipher Keys Required for each Cipher
 - **Caesar Cipher**: Numeric cipher key required.
